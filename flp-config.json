@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "ZWS.ZWeatherStation.ZWeatherStation",
+        "description": "Weather Station",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#ZWeatherStation-Display",
+        "navigationComponentName": "ZWS.ZWeatherStation",
+        "intentSemanticObject": "ZWeatherStation",
+        "intentAction": "Display",
+        "html5ApplicationName": "zweatherstation",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "8b0c3ffa-bd0e-40f2-8657-feea1252eaf7"
+        ],
+        "contentPackages": [
+            "02bd34e3-f9a5-4a6c-a765-3fce7980aa9e"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Weather Station",
+        "subtitle": "",
+        "searchKeywords": "Weather Station,",
+        "displayIconUrl": "sap-icon://weather-proofing",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
